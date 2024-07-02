@@ -1,0 +1,90 @@
+[
+    {
+        "id": 1,
+        "title": "Feed the Hungry",
+        "description": "Provide meals to those in need.",
+        "category": "Food",
+        "price": 25,
+        "image": "https://i.ibb.co/xLJ4FGh/Food.png",
+        "cardBg": "#ffcccb",
+        "categoryBg": "#ff5733",
+        "textColor": "#000000"
+    },
+    {
+        "id": 2,
+        "title": "Build a School",
+        "description": "Help construct schools in underdeveloped areas.",
+        "category": "Education",
+        "price": 50,
+        "image": "https://i.ibb.co/dBWZ1m7/Education.png",
+        "cardBg": "#c3e6cb",
+        "categoryBg": "#28a745",
+        "textColor": "#000000"
+    },
+    {
+        "id": 3,
+        "title": "Clean Water Project",
+        "description": "Provide clean drinking water to communities.",
+        "category": "Water",
+        "price": 30,
+        "image": "https://i.ibb.co/SyB3276/Clothing.png",
+        "cardBg": "#bee5eb",
+        "categoryBg": "#17a2b8",
+        "textColor": "#000000"
+    },
+    {
+        "id": 4,
+        "title": "Medical Supplies",
+        "description": "Supply essential medical supplies to clinics.",
+        "category": "Health",
+        "price": 40,
+        "image": "https://i.ibb.co/j8PzgN0/Health.png",
+        "cardBg": "#d6d8db",
+        "categoryBg": "#6c757d",
+        "textColor": "#000000"
+    },
+    {
+        "id": 5,
+        "title": "Plant a Tree",
+        "description": "Support reforestation efforts by planting trees.",
+        "category": "Environment",
+        "price": 10,
+        "image": "https://i.ibb.co/SyB3276/Clothing.png",
+        "cardBg": "#f8d7da",
+        "categoryBg": "#dc3545",
+        "textColor": "#000000"
+    },
+    {
+        "id": 6,
+        "title": "Support the Elderly",
+        "description": "Provide care and support for elderly people.",
+        "category": "Elderly Care",
+        "price": 35,
+        "image": "https://i.ibb.co/dBWZ1m7/Education.png",
+        "cardBg": "#ffe5b4",
+        "categoryBg": "#fd7e14",
+        "textColor": "#000000"
+    },
+    {
+        "id": 7,
+        "title": "Animal Rescue",
+        "description": "Rescue and rehabilitate abandoned animals.",
+        "category": "Animal Welfare",
+        "price": 20,
+        "image": "https://i.ibb.co/j8PzgN0/Health.png",
+        "cardBg": "#d4edda",
+        "categoryBg": "#28a745",
+        "textColor": "#000000"
+    },
+    {
+        "id": 8,
+        "title": "Disaster Relief",
+        "description": "Provide emergency relief to disaster-affected areas.",
+        "category": "Disaster Relief",
+        "price": 60,
+        "image": "https://i.ibb.co/xLJ4FGh/Food.png",
+        "cardBg": "#f1f1f1",
+        "categoryBg": "#343a40",
+        "textColor": "#000000"
+    }
+]
